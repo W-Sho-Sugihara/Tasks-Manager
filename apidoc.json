@@ -1,0 +1,11 @@
+{
+  "name": "Tasks Backend",
+  "version": "0.0.0",
+  "description": "Tasks Backend API Documentation",
+  "title": "Tasks App",
+  "url": "/api",
+  "groups": ["Tasks"],
+  "template": {
+    "withCompare": "false"
+  }
+}
